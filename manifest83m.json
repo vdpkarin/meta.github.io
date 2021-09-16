@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://a02aed91-7cf5-4f5c-b8d8-32a5d35c8487",
+	"@id": "http://meta.github.io/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Fuga",
 	"metadata": [
