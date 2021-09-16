@@ -1,0 +1,147 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Zelfportret (studie)"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "Zelfportret (studie)"
+        ]
+      },
+      "height": 1000,
+      "width": 1000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000083/full/full/0/default.jpg",
+                "width": 200,
+                "height": 300
+              },
+              "target": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/4c0be5ce-f704-2271-9ac9-49461a8bdfcf/canvas/f60acbf5-535c-308e-e5e4-065113274d0f#xywh=0,0,666.6666666666666,1000",
+              "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/4c0be5ce-f704-2271-9ac9-49461a8bdfcf/annotation/caa499e7-8cf8-d278-a794-d7b0362ab463",
+              "motivation": "painting"
+            },
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000083/full/full/0/default.jpg",
+                "width": 4446,
+                "height": 5000
+              },
+              "target": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/4c0be5ce-f704-2271-9ac9-49461a8bdfcf/canvas/f60acbf5-535c-308e-e5e4-065113274d0f#xywh=0,0,889.2,1000",
+              "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/4c0be5ce-f704-2271-9ac9-49461a8bdfcf/annotation/93fe25a8-eeac-8f28-af88-799aa4c8b9cb",
+              "motivation": "painting",
+              "label": {
+                "en": [
+                  ""
+                ]
+              },
+              "summary": {
+                "en": [
+                  ""
+                ]
+              },
+              "requiredStatement": {
+                "value": {
+                  "en": [
+                    "Museum voor Schone Kunsten Gent"
+                  ]
+                }
+              },
+              "metadata": [
+                {
+                  "label": {
+                    "en": [
+                      ""
+                    ]
+                  },
+                  "value": {
+                    "en": [
+                      ""
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "behavior": [
+        "layout-split",
+        "info-position-left"
+      ],
+      "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/4c0be5ce-f704-2271-9ac9-49461a8bdfcf/canvas/f60acbf5-535c-308e-e5e4-065113274d0f",
+      "summary": {
+        "en": [
+          "beschrijving"
+        ]
+      },
+      "requiredStatement": {
+        "label": {
+          "en": [
+            ""
+          ]
+        },
+        "value": {
+          "en": [
+            "Museum voor Schone Kunsten Gent"
+          ]
+        }
+      }
+    }
+  ],
+  "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/4c0be5ce-f704-2271-9ac9-49461a8bdfcf/manifest",
+  "summary": {
+    "en": [
+      "Theo Van Rysselberghe leverde zijn beste werk als portrettist. Dit talent komt al tot uiting in dit vroege werk, geschilderd omstreeks 1880, op achttienjarige leeftijd. De kunstenaar schept een mysterieuze sfeer door zich af te beelden met het hoofddeksel ver over het hoofd getrokken, zodat de schaduw van de rand zijn blik verdoezelt. Alle aandacht gaat naar de jeugdige wangen, de wilskrachtige neus en kin en het sensuele mondje met de pijp. We zien hier al iets van de dandy die we kennen uit zijn brieven en latere zelfportretten."
+    ]
+  },
+  "requiredStatement": {
+    "value": {
+      "en": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Artiest"
+        ]
+      },
+      "value": {
+        "en": [
+          "Théo Van Rysselberghe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Periode"
+        ]
+      },
+      "value": {
+        "en": [
+          "± 1880"
+        ]
+      }
+    }
+  ]
+}
