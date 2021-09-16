@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://bc405f4e-25f0-4d1a-b586-59c4236e5aee",
+	"@id": "https://vdpkarin.github.io/manifest662.json",
 	"@type": "sc:Manifest",
 	"label": [
 		"Zelfportret (studie)",
