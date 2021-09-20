@@ -1,0 +1,122 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://a117e971-3321-4a1b-b6bd-1d66e1faee41",
+	"@type": "sc:Manifest",
+	"label": "Fuga",
+	"metadata": [
+		{
+			"label": "Titel",
+			"value": {
+				"@value": "Fuga",
+				"@language": "nl"
+			}
+		},
+		{
+			"label": "Artiest",
+			"value": {
+				"@value": "Gustave Van de Woestyne",
+				"@language": "nl"
+			}
+		},
+		{
+			"label": "Periode",
+			"value": {
+				"@value": "1925 - 20ste eeuw",
+				"@language": "nl"
+			}
+		}
+	],
+	"description": [
+		{
+			"@value": "Olieverfschilderij op doek - Gustave Van de Woestyne, die een symbolistische schilder in de eerste groep van Latem voor de oorlog was geweest, was niet ongevoelig voor het modernisme en geleidelijk opgenomen expressionistische en post-kubistische stilistische elementen in zijn werk. Fugue, uit 1925, is een van zijn meest expressionistische werken. De muzikale titel verwijst naar de meerdere stemmen in de samenstelling. In het centrum is de boer, omringd door de elementen die bepalen en deel uitmaken van zijn leven, namelijk het huis, kerk, dieren en de natuur. De vormen zijn sterk vereenvoudigd en teruggebracht tot grote contrasterende kleurvlakken in een collage-achtige constructie.",
+			"@language": "nl"
+		}
+	],
+	"license": "https://creativecommons.org/publicdomain/zero/1.0/",
+	"attribution": "Museum voor Schone Kunsten Gent",
+	"sequences": [
+		{
+			"@id": "http://7314d0d6-a475-4d86-b9e0-ad7bbe23c159",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://f87b8aae-dc58-448f-b43f-a4828f01686b",
+					"@type": "sc:Canvas",
+					"label": "100000083",
+					"height": 5000,
+					"width": 4446,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0aa4dcc5-d92c-4a6d-ab18-a70a6bea16aa",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000083/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000083",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 22230000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5000,
+								"width": 4446
+							},
+							"on": "http://f87b8aae-dc58-448f-b43f-a4828f01686b"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"related": {
+		"@id": "https://arthub.vlaamsekunstcollectie.be/nl/catalog/mskgent:1991-M"
+	}
+}
