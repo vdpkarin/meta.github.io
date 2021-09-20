@@ -1,0 +1,121 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Fuga"
+    ],
+    "nl": [
+      "Fuga"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "100000083"
+        ],
+        "nl": [
+          "100000083"
+        ]
+      },
+      "height": 1000,
+      "width": 1000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000083/full/full/0/default.jpg",
+                "width": 4446,
+                "height": 5000
+              },
+              "target": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/bc417e4c-e5de-bd97-a4e8-b3fef1e5b923/canvas/384488d5-de93-1e61-89c2-e2e7e3a26ba8#xywh=0,0,889.2,1000",
+              "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/bc417e4c-e5de-bd97-a4e8-b3fef1e5b923/annotation/1c913f72-13d1-efb1-9011-e7e33ac110f4",
+              "motivation": "painting"
+            }
+          ],
+          "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/bc417e4c-e5de-bd97-a4e8-b3fef1e5b923/list/1f096111-39b8-b8f6-d635-500acdfe2b05"
+        }
+      ],
+      "behavior": [
+        "layout-split",
+        "info-position-left"
+      ],
+      "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/bc417e4c-e5de-bd97-a4e8-b3fef1e5b923/canvas/384488d5-de93-1e61-89c2-e2e7e3a26ba8"
+    }
+  ],
+  "id": "https://iiif-collection-diageo.ch.digtest.co.uk/p3/bc417e4c-e5de-bd97-a4e8-b3fef1e5b923/manifest",
+  "summary": {
+    "en": [
+      ""
+    ],
+    "nl": [
+      "Olieverfschilderij op doek - Gustave Van de Woestyne, die een symbolistische schilder in de eerste groep van Latem voor de oorlog was geweest, was niet ongevoelig voor het modernisme en geleidelijk opgenomen expressionistische en post-kubistische stilistische elementen in zijn werk. Fugue, uit 1925, is een van zijn meest expressionistische werken. De muzikale titel verwijst naar de meerdere stemmen in de samenstelling. In het centrum is de boer, omringd door de elementen die bepalen en deel uitmaken van zijn leven, namelijk het huis, kerk, dieren en de natuur. De vormen zijn sterk vereenvoudigd en teruggebracht tot grote contrasterende kleurvlakken in een collage-achtige constructie."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        ""
+      ],
+      "nl": [
+        "Collectie"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          ""
+        ],
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Fuga"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Artiest"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Gustave Van de Woestyne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Periode"
+        ]
+      },
+      "value": {
+        "nl": [
+          "1925 - 20ste eeuw"
+        ]
+      }
+    }
+  ],
+  "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
