@@ -1,0 +1,166 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Zelfportret (studie) / Self-Portrait (sketch)"
+    ],
+    "nl": [
+      "Zelfportret (studie) / Self-Portrait (sketch)"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "100000066"
+        ],
+        "nl": [
+          "100000066"
+        ]
+      },
+      "height": 5000,
+      "width": 3223,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
+                "width": 3223,
+                "height": 5000
+              },
+              "target": "http://digirati.com/iiif/v3/a4ab49d7-8bef-0364-2d26-3b7779f680e8/canvas/52d65af0-fe2b-a299-99e9-b5119f288eee#xywh=0,0,3223,5000",
+              "id": "http://digirati.com/iiif/v3/a4ab49d7-8bef-0364-2d26-3b7779f680e8/annotation/150f90eb-583d-03df-1734-494d1cc6dcf7",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/a4ab49d7-8bef-0364-2d26-3b7779f680e8/list/dc52cf05-1cc3-6247-934d-1248752cbf32"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/a4ab49d7-8bef-0364-2d26-3b7779f680e8/canvas/52d65af0-fe2b-a299-99e9-b5119f288eee",
+      "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "requiredStatement": {
+        "label": {
+          "nl": [
+            "Collectie"
+          ],
+          "en": [
+            "Collection"
+          ]
+        },
+        "value": {
+          "nl": [
+            "Museum voor Schone Kunsten Gent"
+          ],
+          "en": [
+            "Museum of Fine Arts Ghent"
+          ]
+        }
+      }
+    }
+  ],
+  "id": "http://digirati.com/iiif/v3/a4ab49d7-8bef-0364-2d26-3b7779f680e8/manifest",
+  "summary": {
+    "en": [
+      "Oil on canvas - Theo Van Rysselberghe did his best work as a portraitist. This talent is already reflected in this early work, painted around 1880, at the age of eighteen. The artist creates a mysterious mood by imagining with the hat pulled far over the head so that the shadow of the edge masking his eyes. All the attention goes to the youthful cheeks, nose and chin willed and sensual mouth with the pipe. We see here something of the dandy we know from his letters and later self-portraits."
+    ],
+    "nl": [
+      "Olieverfschilderij op doek - Theo Van Rysselberghe leverde zijn beste werk als portrettist. Dit talent komt al tot uiting in dit vroege werk, geschilderd omstreeks 1880, op achttienjarige leeftijd. De kunstenaar schept een mysterieuze sfeer door zich af te beelden met het hoofddeksel ver over het hoofd getrokken, zodat de schaduw van de rand zijn blik verdoezelt. Alle aandacht gaat naar de jeugdige wangen, de wilskrachtige neus en kin en het sensuele mondje met de pijp. We zien hier al iets van de dandy die we kennen uit zijn brieven en latere zelfportretten."
+    ]
+  },
+  "metadata": [
+    {
+      "value": {
+        "en": [
+          "Self-Portrait (sketch)"
+        ],
+        "nl": [
+          "Zelfportret (studie)"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Titel"
+        ],
+        "en": [
+          "Title"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "Théo Van Rysselberghe"
+        ],
+        "nl": [
+          "Théo Van Rysselberghe"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Artiest"
+        ],
+        "en": [
+          "Artist"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "± 1880 - 19de eeuw"
+        ],
+        "nl": [
+          "± 1880 - 19de eeuw"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Periode"
+        ],
+        "en": [
+          "Period"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          ""
+        ]
+      },
+      "label": {
+        "en": [
+          ""
+        ]
+      }
+    }
+  ],
+  "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Collectie"
+      ],
+      "en": [
+        "Collection"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Museum voor Schone Kunsten Gent"
+      ],
+      "en": [
+        "Museum of Fine Arts Ghent"
+      ]
+    }
+  }
+}
