@@ -1,0 +1,88 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d93aad47-6820-43a8-95b2-896cb1478093",
+	"@type": "sc:Manifest",
+	"label": "test meemoo endpoint",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://a9afeac4-3ab2-43a7-844c-f07a1a2ae442",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://9e9bba2d-1c7a-42e2-b1a0-b838baa8e313",
+					"@type": "sc:Canvas",
+					"label": "Reinaert de Vos",
+					"height": 4930,
+					"width": 5975,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1d07caea-8c80-41b1-a81f-452ad8a40ef3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images-tst.meemoo.be/iiif/qr4nk4xw6k.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://images-tst.meemoo.be/iiif/qr4nk4xw6k.jp2",
+									"profile": "level2"
+								},
+								"height": 4930,
+								"width": 5975
+							},
+							"on": "http://9e9bba2d-1c7a-42e2-b1a0-b838baa8e313"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://3f17d431-c5dd-4957-aa05-c3c7da170d28",
+					"@type": "sc:Canvas",
+					"label": "Portretten van Jan zonder Vrees en Margaretha van Beieren",
+					"height": 4911,
+					"width": 6215,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d682236e-bc13-4175-ae19-8c393bb37b6f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/3/context.json",
+									"@id": "https://images-tst.meemoo.be/iiif/416sx7vq3v.jp2",
+									"profile": "level2"
+								},
+								"height": 4911,
+								"width": 6215
+							},
+							"on": "http://3f17d431-c5dd-4957-aa05-c3c7da170d28"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
