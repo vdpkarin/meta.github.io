@@ -92,12 +92,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000066",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
