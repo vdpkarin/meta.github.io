@@ -1,0 +1,566 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "De 7 hoofdzonden"
+    ],
+    "nl": [
+      "De 7 hoofdzonden"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "De hoofdzonden beheerst door de dood"
+        ],
+        "nl": [
+          "De hoofdzonden beheerst door de dood"
+        ]
+      },
+      "height": 1747,
+      "width": 2362,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/8s4jm49663.jp2/full/full/0/default.jpg",
+                "width": 2362,
+                "height": 1747
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/616d3c5d-38cd-8c9b-4559-3dd87ddd808e#xywh=0,0,2362,1747",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/e1c79afd-7725-5b34-2c60-6ccec379e6f2",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/dd79bef4-afd6-4575-3424-33d711597b0d"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/616d3c5d-38cd-8c9b-4559-3dd87ddd808e",
+      "metadata": [
+        {
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          },
+          "value": {
+            "nl": [
+              "1998-B-126"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De ontucht"
+        ],
+        "nl": [
+          "De ontucht"
+        ]
+      },
+      "height": 3314,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/w66932vw93.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3314
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/abc045ff-db25-f23f-9a44-3c079a8694a1#xywh=0,0,5000,3314",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/67000f14-e00b-3f32-5b92-c6c8a792e75f",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/d282024f-7f58-c7a0-1339-eb910b5e8ae3"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/abc045ff-db25-f23f-9a44-3c079a8694a1",
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1888"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          },
+          "value": {
+            "nl": [
+              "1998-B-59"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De gramschap"
+        ],
+        "nl": [
+          "De gramschap"
+        ]
+      },
+      "height": 3800,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/sb3wt0qh4z.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3800
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/fc705885-e872-8666-07d2-5245356e95bf#xywh=0,0,5000,3800",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/7442c52b-46f3-257e-a348-a0b6d1976e22",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/d1d34b0f-fb14-a9b0-8b3b-3eb73d270ed7"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/fc705885-e872-8666-07d2-5245356e95bf",
+      "metadata": [
+        {
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          },
+          "value": {
+            "nl": [
+              "1998-B-121"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De gierigheid"
+        ],
+        "nl": [
+          "De gierigheid"
+        ]
+      },
+      "height": 3770,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/1834190p19.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3770
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/9b3e6c65-bb47-d9d0-3d39-36ceb7fbbc4a#xywh=0,0,5000,3770",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/1f2ff898-4e03-0c7e-0dd4-34b7804599c2",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/b6af85a1-5bac-77aa-fb13-a5edb6d9d129"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/9b3e6c65-bb47-d9d0-3d39-36ceb7fbbc4a",
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          }
+        },
+        {
+          "value": {
+            "nl": [
+              "1998-B-123"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De hoogmoed"
+        ],
+        "nl": [
+          "De hoogmoed"
+        ]
+      },
+      "height": 3712,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/nk36132r2x.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3712
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/98852676-bc8e-e434-2cd3-10405737c5c1#xywh=0,0,5000,3712",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/35198246-f566-be61-87e7-0964fdc1d35c",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/c04a435a-8c52-82d2-07b7-0341f7dedd00"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/98852676-bc8e-e434-2cd3-10405737c5c1",
+      "metadata": [
+        {
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          }
+        },
+        {
+          "value": {
+            "nl": [
+              "1998-B-122"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De nijd"
+        ],
+        "nl": [
+          "De nijd"
+        ]
+      },
+      "height": 3983,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/513tt6nf21.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3983
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/4ec653fa-e7c1-acb0-40cb-2003d5474e74#xywh=0,0,5000,3983",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/78c5ffae-4c5b-2080-355c-8b6219c76434",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/48caf598-583c-0748-7c5d-dfd1125fb16d"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/4ec653fa-e7c1-acb0-40cb-2003d5474e74",
+      "metadata": [
+        {
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          }
+        },
+        {
+          "value": {
+            "nl": [
+              "1998-B-125"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De luiheid"
+        ],
+        "nl": [
+          "De luiheid"
+        ]
+      },
+      "height": 3687,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/1r6n035f2t.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3687
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/f5482961-8f3c-23c5-db57-e63b1c245306#xywh=0,0,5000,3687",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/dc875e51-56c8-dc3e-8f53-94430834b9d3",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/f2fac804-0106-cd6c-86b0-9dd44de9dd7c"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/f5482961-8f3c-23c5-db57-e63b1c245306",
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1902"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          },
+          "value": {
+            "nl": [
+              "1998-B-119"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De gulzigheid"
+        ],
+        "nl": [
+          "De gulzigheid"
+        ]
+      },
+      "height": 3890,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/xd0qr6vq6c.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3890
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/9dd8eda6-e5d8-0db5-b177-570a242da0dd#xywh=0,0,5000,3890",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/a8322edf-74ae-d80c-4c7b-79ffc9c80192",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/1c06d223-3989-33d3-76e8-f1eb9c57c619"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/9dd8eda6-e5d8-0db5-b177-570a242da0dd",
+      "metadata": [
+        {
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          },
+          "value": {
+            "nl": [
+              "1998-B-124"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/manifest",
+  "summary": {
+    "nl": [
+      "Ensor publiceerde de reeks “De zeven hoofdzonden” in 1904 in de vorm van een album, met een voorwoord van zijn vriend Eugène Demolder. De reeks prenten werd niet in één keer gemaakt. Van 1888 dateert “De ontucht”. In 1902 en 1904 werden de overige prenten toegevoegd. Voor alle etsen bestaan voorstudies in gekleurd krijt. Deze tekeningen zijn spiegelbeeldig ten opzichte van de prenten behalve “De ontucht” die waarschijnlijk naar de ets van 1888 werd gemaakt. Ensor heeft “De zeven hoofdzonden” herhaaldelijk bijgekleurd. Aan Eugène Demolder vertelde hij dat het album hem veel voldoening schonk, maar dat hij vooral de gehoogde prenten verkoos."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Collectie:"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "metadata": [
+    {
+      "value": {
+        "nl": [
+          "James Ensor"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Artiest"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "± 1888 - 1904 / 19de-20ste eeuw"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Periode"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "De 7 hoofdzonden"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "seeAlso"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<ahref>http://arthubensor.vlaamsekunstcollectie.be/nl/catalog?utf8=%E2%9C%93&amp;locale=nl&amp;search_field=all_fields&amp;q=hoofdzonden</ahref>"
+        ]
+      }
+    }
+  ]
+}
