@@ -1,0 +1,206 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "De 7 hoofdzonden"
+    ],
+    "nl": [
+      "De 7 hoofdzonden"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "De hoofdzonden beheerst door de dood"
+        ],
+        "nl": [
+          "De hoofdzonden beheerst door de dood"
+        ]
+      },
+      "height": 1747,
+      "width": 2362,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/8s4jm49663.jp2/full/full/0/default.jpg",
+                "width": 2362,
+                "height": 1747
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/616d3c5d-38cd-8c9b-4559-3dd87ddd808e#xywh=0,0,2362,1747",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/e1c79afd-7725-5b34-2c60-6ccec379e6f2",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/dd79bef4-afd6-4575-3424-33d711597b0d"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/616d3c5d-38cd-8c9b-4559-3dd87ddd808e",
+      "metadata": [
+        {
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          },
+          "value": {
+            "nl": [
+              "1998-B-126"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "De ontucht"
+        ],
+        "nl": [
+          "De ontucht"
+        ]
+      },
+      "height": 3314,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://images-tst.meemoo.be/iiif/w66932vw93.jp2/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3314
+              },
+              "target": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/abc045ff-db25-f23f-9a44-3c079a8694a1#xywh=0,0,5000,3314",
+              "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/annotation/67000f14-e00b-3f32-5b92-c6c8a792e75f",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/list/d282024f-7f58-c7a0-1339-eb910b5e8ae3"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/canvas/abc045ff-db25-f23f-9a44-3c079a8694a1",
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          },
+          "value": {
+            "nl": [
+              "1888"
+            ]
+          }
+        },
+        {
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          },
+          "value": {
+            "nl": [
+              "1998-B-59"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "id": "http://digirati.com/iiif/v3/cfa89df0-f2bf-87a4-c2ea-0f33b73be3d3/manifest",
+  "summary": {
+    "nl": [
+      "Ensor publiceerde de reeks “De zeven hoofdzonden” in 1904 in de vorm van een album, met een voorwoord van zijn vriend Eugène Demolder. De reeks prenten werd niet in één keer gemaakt. Van 1888 dateert “De ontucht”. In 1902 en 1904 werden de overige prenten toegevoegd. Voor alle etsen bestaan voorstudies in gekleurd krijt. Deze tekeningen zijn spiegelbeeldig ten opzichte van de prenten behalve “De ontucht” die waarschijnlijk naar de ets van 1888 werd gemaakt. Ensor heeft “De zeven hoofdzonden” herhaaldelijk bijgekleurd. Aan Eugène Demolder vertelde hij dat het album hem veel voldoening schonk, maar dat hij vooral de gehoogde prenten verkoos."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Collectie:"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "metadata": [
+    {
+      "value": {
+        "nl": [
+          "De 7 hoofdzonden"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "James Ensor"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Artiest"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "± 1888 - 1904 - 19de-20ste eeuw"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Periode"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "seeAlso"
+        ]
+      },
+      "value": {
+        "nl": [
+          "<ahref>http://arthubensor.vlaamsekunstcollectie.be/nl/catalog?utf8=%E2%9C%93&amp;locale=nl&amp;search_field=all_fields&amp;q=hoofdzonden</ahref>"
+        ]
+      }
+    }
+  ]
+}
