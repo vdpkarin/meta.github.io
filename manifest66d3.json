@@ -33,7 +33,7 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://imagehub.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
                 "width": 3223,
                 "height": 5000
               },
@@ -148,10 +148,10 @@
       },
       "value": {
         "en": [
-          "https://arthub.vlaamsekunstcollectie.be/nl/catalog/mskgent:1970-AE"
+          "https://arthub.iiif.vlaamsekunstcollectie.be/nl/catalog/mskgent:1970-AE"
         ],
         "nl": [
-          "https://arthub.vlaamsekunstcollectie.be/nl/catalog/mskgent:1970-AE"
+          "https://arthub.iiif.vlaamsekunstcollectie.be/nl/catalog/mskgent:1970-AE"
         ]
       }
     },
