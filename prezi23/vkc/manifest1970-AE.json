@@ -1,0 +1,159 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/manifest.json",
+    "label": [
+        {
+            "@language": "nl-BE",
+            "@value": "Zelfportret (studie)"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Self-Portrait (sketch"
+        }
+    ],
+    "attribution": [
+        {
+            "@language": "nl-BE",
+            "@value": "Museum voor Schone Kunsten Gent"
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Museum of Fine Arts Ghent"
+        }
+    ],
+    "related": "https://arthub.vlaamsekunstcollectie.be/nl/catalog/mskgent:1970-AE",
+    "description": [
+        {
+            "@language": "nl-BE",
+            "@value": "Theo Van Rysselberghe leverde zijn beste werk als portrettist. Dit talent komt al tot uiting in dit vroege werk, geschilderd omstreeks 1880, op achttienjarige leeftijd. De kunstenaar schept een mysterieuze sfeer door zich af te beelden met het hoofddeksel ver over het hoofd getrokken, zodat de schaduw van de rand zijn blik verdoezelt. Alle aandacht gaat naar de jeugdige wangen, de wilskrachtige neus en kin en het sensuele mondje met de pijp. We zien hier al iets van de dandy die we kennen uit zijn brieven en latere zelfportretten."
+        },
+        {
+            "@language": "en-GB",
+            "@value": "Theo Van Rysselberghe did his best work as a portraitist. This talent is already reflected in this early work, painted around 1880, at the age of eighteen. The artist creates a mysterious mood by imagining with the hat pulled far over the head so that the shadow of the edge masking his eyes. All the attention goes to the youthful cheeks, nose and chin willed and sensual mouth with the pipe. We see here something of the dandy we know from his letters and later self-portraits."
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Title",
+            "value": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Zelfportret (studie)"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Self-Portrait (sketch"
+                }
+            ]
+        },
+        {
+            "label": "Artist",
+            "value": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Van Rysselberghe, Théo"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Van Rysselberghe, Théo"
+                }
+            ]
+        },
+        {
+            "label": "Date",
+            "value": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "circa 1880"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "circa 1880"
+                }
+            ]
+        },
+        {
+            "label": "EarliestDate",
+            "value": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "1880"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "1880"
+                }
+            ]
+        },
+        {
+            "label": "LatestDate",
+            "value": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "1880"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "1880"
+                }
+            ]
+        },
+        {
+            "label": "Credit Line",
+            "value": [
+                {
+                    "@language": "nl-BE",
+                    "@value": "Museum voor Schone Kunsten Gent"
+                },
+                {
+                    "@language": "en-GB",
+                    "@value": "Museum of Fine Arts Ghent"
+                }
+            ]
+        },
+        {
+            "label": "Manifest",
+            "value": "<a href=\"https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/manifest.json\">https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/manifest.json</a>"
+        }
+    ],
+    "viewingDirection": "left-to-right",
+    "viewingHint": "individuals",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "startCanvas": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/canvas/1.json",
+            "canvases": [
+                {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/canvas/1.json",
+                    "@type": "sc:Canvas",
+                    "label": "100000066",
+                    "height": 5000,
+                    "width": 3223,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@type": "oa:Annotation",
+                            "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/canvas/1.json/image",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 5000,
+                                "width": 3223
+                            },
+                            "on": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1970-AE/canvas/1.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
