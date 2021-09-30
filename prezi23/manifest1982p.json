@@ -1,0 +1,277 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en-GB": [
+      "Men Fighting"
+    ],
+    "nl-BE": [
+      "Vechtende mannen"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@nl": [
+          "Title"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "Men Fighting"
+        ],
+        "nl-BE": [
+          "Vechtende mannen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "Minne, George"
+        ],
+        "nl-BE": [
+          "Minne, George"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "circa 1886"
+        ],
+        "nl-BE": [
+          "circa 1886"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "EarliestDate"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "1886"
+        ],
+        "nl-BE": [
+          "1886"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "LatestDate"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "1886"
+        ],
+        "nl-BE": [
+          "1886"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Credit Line"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "Museum of Fine Arts Ghent"
+        ],
+        "nl-BE": [
+          "Museum voor Schone Kunsten Gent"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Manifest"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "<a href=\"https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/manifest.json\">https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/manifest.json</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "n/a"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "@nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en-GB": [
+        "Museum of Fine Arts Ghent"
+      ],
+      "nl-BE": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "homepage": {
+    "id": "https://arthub.vlaamsekunstcollectie.be/nl/catalog/mskgent:1982-N",
+    "type": "Text"
+  },
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "items": [
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/1.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000070"
+        ]
+      },
+      "height": 5000,
+      "width": 3750,
+      "items": [
+        {
+          "id": "https://example.org/uuid/3693a818-b24a-4c4d-b35b-9d6fe430d94d",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/1.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/1.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000070/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 3750,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000070",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/2.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000071"
+        ]
+      },
+      "height": 5000,
+      "width": 3750,
+      "items": [
+        {
+          "id": "https://example.org/uuid/16c4c322-a12d-48b1-9684-fd76daec2921",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/2.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/2.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000071/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 3750,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000071",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/3.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000072"
+        ]
+      },
+      "height": 5000,
+      "width": 3750,
+      "items": [
+        {
+          "id": "https://example.org/uuid/82278d32-2289-4d5c-baff-173c8a679700",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/3.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:1982-N/canvas/3.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000072/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 3750,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000072",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

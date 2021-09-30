@@ -1,0 +1,237 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "http://2cb9ddab-9b3f-406a-a309-84eca29454e0",
+  "type": "Manifest",
+  "label": {
+    "@nl": [
+      "Vechtende mannen / Men Fighting"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Vechtende mannen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Title"
+        ]
+      },
+      "value": {
+        "en": [
+          "Men Fighting"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Artiest"
+        ]
+      },
+      "value": {
+        "nl": [
+          "George Minne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "George Minne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Periode"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "\u00b1 1886 - 19de eeuw"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Description"
+        ]
+      },
+      "value": {}
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "@nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "@nl": [
+        "Museum voor Schone Kunsten Gent / Museum of Fine Arts Ghent"
+      ]
+    }
+  },
+  "homepage": {
+    "id": "https://arthub.iiif.vlaamsekunstcollectie.be/nl/catalog/mskgent:1982-N",
+    "type": "Text"
+  },
+  "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "items": [
+    {
+      "id": "http://927d2268-9d19-44ec-98b2-3b66aad309e2",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "20843001"
+        ]
+      },
+      "homepage": {
+        "id": "https://arthub.iiif.vlaamsekunstcollectie.be/nl/catalog/mskgent:1982-N",
+        "type": "Text"
+      },
+      "height": "5000",
+      "width": "3750",
+      "items": [
+        {
+          "id": "https://example.org/uuid/489b70cb-86b8-4335-b236-2f8762955082",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://9e8a09d1-db8b-4de2-ad4b-c6cf44e9f82d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://927d2268-9d19-44ec-98b2-3b66aad309e2",
+              "body": {
+                "id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7421,
+                "width": 5566,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "@id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2",
+                    "@type": "Service",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://ecb33e10-9e6d-4dc2-9bd9-68a1a8c796ce",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "20843002"
+        ]
+      },
+      "homepage": {
+        "id": "https://arthub.iiif.vlaamsekunstcollectie.be/nl/catalog/mskgent:1982-N",
+        "type": "Text"
+      },
+      "height": "5000",
+      "width": "3750",
+      "items": [
+        {
+          "id": "https://example.org/uuid/3f8be779-930b-4867-8275-ed5deef8d2bc",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://e6cbc610-6133-4e8b-bc95-68db32981048",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://ecb33e10-9e6d-4dc2-9bd9-68a1a8c796ce",
+              "body": {
+                "id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7421,
+                "width": 5566,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "@id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2",
+                    "@type": "Service",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://f9ecf182-a030-4a20-9749-495514de1e8e",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "20843003"
+        ]
+      },
+      "homepage": {
+        "id": "https://arthub.iiif.vlaamsekunstcollectie.be/nl/catalog/mskgent:1982-N",
+        "type": "Text"
+      },
+      "height": "5000",
+      "width": "3750",
+      "items": [
+        {
+          "id": "https://example.org/uuid/6a678810-81ef-4b4e-88c9-3fe94b09ca9c",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://9f8d4b7e-156d-48a2-952d-e8a22b8ec776",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://f9ecf182-a030-4a20-9749-495514de1e8e",
+              "body": {
+                "id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7421,
+                "width": 5566,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "@id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2",
+                    "@type": "Service",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

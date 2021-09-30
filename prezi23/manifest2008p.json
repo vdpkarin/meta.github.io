@@ -1,0 +1,637 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en-GB": [
+      "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+    ],
+    "nl-BE": [
+      "Bruin de Beer gaat Reinaert dagvaarden en wordt heel vriendelijk onthaald"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@nl": [
+          "Title"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "Reynard the Fox before the Tribunal of King Nobel the Lion. A useful and entertaining story for small and older children. Recounted and edited by Stijn Streuvels"
+        ],
+        "nl-BE": [
+          "Bruin de Beer gaat Reinaert dagvaarden en wordt heel vriendelijk onthaald"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "Van de Woestyne, Gustave"
+        ],
+        "nl-BE": [
+          "Van de Woestyne, Gustave"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "circa 1908"
+        ],
+        "nl-BE": [
+          "circa 1908"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "EarliestDate"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "1908"
+        ],
+        "nl-BE": [
+          "1908"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "LatestDate"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "1908"
+        ],
+        "nl-BE": [
+          "1908"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Credit Line"
+        ]
+      },
+      "value": {
+        "en-GB": [
+          "Museum of Fine Arts Ghent"
+        ],
+        "nl-BE": [
+          "Museum voor Schone Kunsten Gent"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Manifest"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "<a href=\"https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/manifest.json\">https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/manifest.json</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "n/a"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "@nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en-GB": [
+        "Museum of Fine Arts Ghent"
+      ],
+      "nl-BE": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "homepage": {
+    "id": "https://arthub.vlaamsekunstcollectie.be/nl/catalog/mskgent:2008-D-1",
+    "type": "Text"
+  },
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "items": [
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000008"
+        ]
+      },
+      "height": 4226,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/481b9aa6-a9c1-4f76-ac7e-0a1b3b538b4a",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000008/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4226,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000008",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000009"
+        ]
+      },
+      "height": 4395,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/74a635c9-f7c3-43ba-b78b-41fae076cf67",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000009/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4395,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000009",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/3.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000010"
+        ]
+      },
+      "height": 4254,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/a55ddc85-39e7-48e9-9643-93a99db669c7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/3.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/3.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000010/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4254,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000010",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000011"
+        ]
+      },
+      "height": 4301,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/dfc400b9-4dcb-4f12-8a25-c92e4b0bd478",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000011/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4301,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000011",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000012"
+        ]
+      },
+      "height": 4945,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/6d4fcb46-80be-4b86-b231-f9054ff1a9af",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000012/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4945,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000012",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/6.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000013"
+        ]
+      },
+      "height": 4553,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/bc762805-8e9d-4b44-a110-b0b8ac8519ef",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/6.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/6.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000013/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4553,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000013",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000014"
+        ]
+      },
+      "height": 4051,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/17cd7656-6e8f-46ec-b8cd-1651ea65f943",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000014/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4051,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000014",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000015"
+        ]
+      },
+      "height": 5000,
+      "width": 2359,
+      "items": [
+        {
+          "id": "https://example.org/uuid/5da71e2f-0ede-4de2-b4a3-cb3df96fa40e",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000015/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 2359,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000015",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000016"
+        ]
+      },
+      "height": 5000,
+      "width": 3241,
+      "items": [
+        {
+          "id": "https://example.org/uuid/89106530-3601-43bf-98a5-48b1c590d346",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000016/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5000,
+                "width": 3241,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000016",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000017"
+        ]
+      },
+      "height": 3607,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/2004f90e-b45b-419f-8859-187b48a358d9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000017/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3607,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000017",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000018"
+        ]
+      },
+      "height": 3645,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/2be80bb0-e9ef-4a43-a68e-c27f2bfe0774",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000018/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3645,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000018",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "100000019"
+        ]
+      },
+      "height": 4243,
+      "width": 5000,
+      "items": [
+        {
+          "id": "https://example.org/uuid/52800463-26f6-4c5f-a7a1-7e6e0122721a",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json",
+              "body": {
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000019/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4243,
+                "width": 5000,
+                "service": [
+                  {
+                    "@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000019",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
