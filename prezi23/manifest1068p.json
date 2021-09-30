@@ -1,0 +1,133 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "@nl": [
+      "De hoofdzonden beheerst door de dood"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "De hoofdzonden beheerst door de dood"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Inventarisnummer"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "1998-B-126"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Auteursrecht"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a><br/>Als je ons beeld gebruikt, stellen wij bronvermelding op prijs.<br/>Collectie Museum voor Schone Kunsten Gent.<br/>Wij ontvangen graag een exemplaar van de publicatie voor onze bibliotheek."
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Manifest"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "<a href=\"http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068/manifest.json\">http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068/manifest.json</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "@nl": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@nl": [
+          "Ensor publiceerde de reeks \u201cDe zeven hoofdzonden\u201d in 1904 in de vorm van een album, met een voorwoord van zijn vriend Eug\u00e8ne Demolder. De reeks prenten werd niet in \u00e9\u00e9n keer gemaakt. Van 1888 dateert \u201cDe ontucht\u201d. In 1902 en 1904 werden de overige prenten toegevoegd. Voor alle etsen bestaan voorstudies in gekleurd krijt. Deze tekeningen zijn spiegelbeeldig ten opzichte van de prenten behalve \u201cDe ontucht\u201d die waarschijnlijk naar de ets van 1888 werd gemaakt. Ensor heeft \u201cDe zeven hoofdzonden\u201d herhaaldelijk bijgekleurd. Aan Eug\u00e8ne Demolder vertelde hij dat het album hem veel voldoening schonk, maar dat hij vooral de gehoogde prenten verkoos."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "@nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "@nl": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "individuals"
+  ],
+  "items": [
+    {
+      "id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068/canvas/1.json",
+      "type": "Canvas",
+      "label": {
+        "@nl": [
+          "1068"
+        ]
+      },
+      "height": 1747,
+      "width": 2362,
+      "items": [
+        {
+          "id": "https://example.org/uuid/0816c691-5122-4cce-985f-8bbbc3172694",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068/canvas/1.json/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068/canvas/1.json",
+              "body": {
+                "id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1747,
+                "width": 2362,
+                "service": [
+                  {
+                    "@id": "http://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
