@@ -19,7 +19,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_0-front-cover/20110117_minne_1982_I_2011_0001-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_0-front-cover/20110117_minne_1982_I_2011_0001-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -31,7 +31,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_0-front-cover/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_0-front-cover/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -51,7 +51,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_0-front-cover/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_0-front-cover/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -69,7 +69,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_0-front-inner-cover/20110117_minne_1982_I_2011_0002-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_0-front-inner-cover/20110117_minne_1982_I_2011_0002-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -81,7 +81,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_0-front-inner-cover/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_0-front-inner-cover/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -101,7 +101,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_0-front-inner-cover/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_0-front-inner-cover/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -119,7 +119,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-1-R/20110117_minne_1982_I_2011_0002-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-1-R/20110117_minne_1982_I_2011_0002-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -131,7 +131,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-1-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-1-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -151,7 +151,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-1-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-1-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -169,7 +169,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-1-V/20110117_minne_1982_I_2011_0003-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-1-V/20110117_minne_1982_I_2011_0003-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -181,7 +181,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-1-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-1-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -201,7 +201,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-1-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-1-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -219,7 +219,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-2-R/20110117_minne_1982_I_2011_0003-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-2-R/20110117_minne_1982_I_2011_0003-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -231,7 +231,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-2-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-2-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -251,7 +251,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-2-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-2-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -269,7 +269,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-2-V/20110117_minne_1982_I_2011_0004-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-2-V/20110117_minne_1982_I_2011_0004-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -281,7 +281,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-2-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-2-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -301,7 +301,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-2-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-2-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -319,7 +319,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-3-R/20110117_minne_1982_I_2011_0004-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-3-R/20110117_minne_1982_I_2011_0004-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -331,7 +331,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-3-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-3-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -351,7 +351,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-3-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-3-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -369,7 +369,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-3-V/20110117_minne_1982_I_2011_0005-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-3-V/20110117_minne_1982_I_2011_0005-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -381,7 +381,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-3-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-3-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -401,7 +401,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-3-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-3-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -419,7 +419,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-4-R/20110117_minne_1982_I_2011_0005-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-4-R/20110117_minne_1982_I_2011_0005-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -431,7 +431,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-4-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-4-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -451,7 +451,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-4-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-4-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -469,7 +469,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-4-V/20110117_minne_1982_I_2011_0006-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-4-V/20110117_minne_1982_I_2011_0006-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -481,7 +481,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-4-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-4-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -501,7 +501,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-4-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-4-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -519,7 +519,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-5-R/20110117_minne_1982_I_2011_0006-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-5-R/20110117_minne_1982_I_2011_0006-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -531,7 +531,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-5-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-5-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -551,7 +551,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-5-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-5-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -569,7 +569,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-5-V/20110117_minne_1982_I_2011_0007-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-5-V/20110117_minne_1982_I_2011_0007-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -581,7 +581,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-5-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-5-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -601,7 +601,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-5-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-5-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -619,7 +619,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-6-R/20110117_minne_1982_I_2011_0007-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-6-R/20110117_minne_1982_I_2011_0007-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -631,7 +631,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-6-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-6-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -651,7 +651,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-6-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-6-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -669,7 +669,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-6-V/20110117_minne_1982_I_2011_0008-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-6-V/20110117_minne_1982_I_2011_0008-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -681,7 +681,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-6-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-6-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -701,7 +701,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-6-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-6-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -719,7 +719,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-7-R/20110117_minne_1982_I_2011_0008-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-7-R/20110117_minne_1982_I_2011_0008-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -731,7 +731,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-7-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-7-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -751,7 +751,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-7-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-7-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -769,7 +769,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-7-V/20110117_minne_1982_I_2011_0009-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-7-V/20110117_minne_1982_I_2011_0009-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -781,7 +781,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-7-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-7-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -801,7 +801,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-7-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-7-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -819,7 +819,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-8-R/20110117_minne_1982_I_2011_0009-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-8-R/20110117_minne_1982_I_2011_0009-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -831,7 +831,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-8-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-8-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -851,7 +851,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-8-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-8-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -869,7 +869,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-8-V/20110117_minne_1982_I_2011_0010-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-8-V/20110117_minne_1982_I_2011_0010-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -881,7 +881,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-8-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-8-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -901,7 +901,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-8-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-8-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -919,7 +919,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-9-R/20110117_minne_1982_I_2011_0010-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-9-R/20110117_minne_1982_I_2011_0010-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -931,7 +931,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-9-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-9-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -951,7 +951,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-9-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-9-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -969,7 +969,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-9-V/20110117_minne_1982_I_2011_0011-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-9-V/20110117_minne_1982_I_2011_0011-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -981,7 +981,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-9-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-9-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1001,7 +1001,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-9-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-9-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1019,7 +1019,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-10-R/20110117_minne_1982_I_2011_0011-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-10-R/20110117_minne_1982_I_2011_0011-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1031,7 +1031,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-10-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-10-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1051,7 +1051,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-10-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-10-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1069,7 +1069,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-10-V/20110117_minne_1982_I_2011_0012-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-10-V/20110117_minne_1982_I_2011_0012-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1081,7 +1081,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-10-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-10-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1101,7 +1101,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-10-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-10-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1119,7 +1119,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-11-R/20110117_minne_1982_I_2011_0012-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-11-R/20110117_minne_1982_I_2011_0012-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1131,7 +1131,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-11-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-11-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1151,7 +1151,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-11-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-11-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1169,7 +1169,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-11-V/20110117_minne_1982_I_2011_0013-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-11-V/20110117_minne_1982_I_2011_0013-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1181,7 +1181,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-11-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-11-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1201,7 +1201,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-11-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-11-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1219,7 +1219,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-12-R/20110117_minne_1982_I_2011_0013-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-12-R/20110117_minne_1982_I_2011_0013-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1231,7 +1231,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-12-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-12-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1251,7 +1251,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-12-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-12-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1269,7 +1269,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_folio-12-V/20110117_minne_1982_I_2011_0014-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_folio-12-V/20110117_minne_1982_I_2011_0014-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1281,7 +1281,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_folio-12-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-12-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1301,7 +1301,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_folio-12-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_folio-12-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1319,7 +1319,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_page-1-R/20110117_minne_1982_I_2011_0017.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_page-1-R/20110117_minne_1982_I_2011_0017.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1331,7 +1331,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_page-1-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-1-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1351,7 +1351,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_page-1-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_page-1-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1369,7 +1369,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_page-1-V/20110117_minne_1982_I_2011_0018.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_page-1-V/20110117_minne_1982_I_2011_0018.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1381,7 +1381,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_page-1-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-1-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1401,7 +1401,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_page-1-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_page-1-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1419,7 +1419,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_page-2-R/20110117_minne_1982_I_2011_0019.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_page-2-R/20110117_minne_1982_I_2011_0019.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1431,7 +1431,7 @@
                 "height": 1215,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_page-2-R/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-2-R/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1451,7 +1451,7 @@
       "height": 1215,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_page-2-R/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_page-2-R/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1469,7 +1469,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_page-2-V/20110117_minne_1982_I_2011_0020.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_page-2-V/20110117_minne_1982_I_2011_0020.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1481,7 +1481,7 @@
                 "height": 1215,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_page-2-V/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-2-V/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1501,7 +1501,7 @@
       "height": 1215,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_page-2-V/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_page-2-V/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1519,7 +1519,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_Z-back-inner-cover/20110117_minne_1982_I_2011_0015-R.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_Z-back-inner-cover/20110117_minne_1982_I_2011_0015-R.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1531,7 +1531,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_Z-back-inner-cover/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_Z-back-inner-cover/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1551,7 +1551,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_Z-back-inner-cover/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_Z-back-inner-cover/thumb.jpg",
           "type": "Image"
         }
       ]
@@ -1569,7 +1569,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://vdpkarin.github.io/_ZZ-back-cover/20110117_minne_1982_I_2011_0016-L.jpg",
+                "id": "https://vdpkarin.github.io/1982_1/_ZZ-back-cover/20110117_minne_1982_I_2011_0016-L.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -1581,7 +1581,7 @@
                 "height": 1217,
                 "service": [
                   {
-                    "@id": "https://vdpkarin.github.io/_ZZ-back-cover/+tiles",
+                    "@id": "https://vdpkarin.github.io/1982_1/_ZZ-back-cover/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
@@ -1601,7 +1601,7 @@
       "height": 1217,
       "thumbnail": [
         {
-          "id": "https://vdpkarin.github.io/_ZZ-back-cover/thumb.jpg",
+          "id": "https://vdpkarin.github.io/1982_1/_ZZ-back-cover/thumb.jpg",
           "type": "Image"
         }
       ]
