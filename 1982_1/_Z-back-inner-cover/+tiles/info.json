@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://vdpkarin.github.io/_Z-back-inner-cover/+tiles",
+  "@id": "https://vdpkarin.github.io/1982_1/_Z-back-inner-cover/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
