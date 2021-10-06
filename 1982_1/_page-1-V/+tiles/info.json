@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://vdpkarin.github.io/_page-1-V/+tiles",
+  "@id": "https://vdpkarin.github.io/1982_1/_page-1-V/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
