@@ -1,0 +1,1660 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://vdpkarin.github.io/1982_1/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_0-front-cover/20110117_minne_1982_I_2011_0001-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_0-front-cover"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_0-front-cover/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_0-front-cover"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_0-front-cover/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_0-front-inner-cover/20110117_minne_1982_I_2011_0002-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_0-front-inner-cover"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_0-front-inner-cover/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_0-front-inner-cover"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_0-front-inner-cover/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-1-R/20110117_minne_1982_I_2011_0002-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-1-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-1-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-1-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-1-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-1-V/20110117_minne_1982_I_2011_0003-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-1-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-1-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-1-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-1-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-2-R/20110117_minne_1982_I_2011_0003-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-2-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-2-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-2-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-2-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-2-V/20110117_minne_1982_I_2011_0004-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-2-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-2-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-2-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-2-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-3-R/20110117_minne_1982_I_2011_0004-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-3-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-3-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-3-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-3-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/7",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/7/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/7/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-3-V/20110117_minne_1982_I_2011_0005-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-3-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-3-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/7"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-3-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-3-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/8",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/8/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/8/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-4-R/20110117_minne_1982_I_2011_0005-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-4-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-4-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/8"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-4-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-4-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/9",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/9/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/9/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-4-V/20110117_minne_1982_I_2011_0006-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-4-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-4-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/9"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-4-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-4-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/10",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/10/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/10/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-5-R/20110117_minne_1982_I_2011_0006-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-5-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-5-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/10"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-5-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-5-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/11",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/11/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/11/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-5-V/20110117_minne_1982_I_2011_0007-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-5-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-5-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/11"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-5-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-5-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/12",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/12/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/12/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-6-R/20110117_minne_1982_I_2011_0007-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-6-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-6-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/12"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-6-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-6-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/13",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/13/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/13/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-6-V/20110117_minne_1982_I_2011_0008-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-6-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-6-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/13"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-6-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-6-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/14",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/14/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/14/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-7-R/20110117_minne_1982_I_2011_0008-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-7-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-7-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/14"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-7-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-7-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/15",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/15/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/15/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-7-V/20110117_minne_1982_I_2011_0009-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-7-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-7-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/15"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-7-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-7-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/16",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/16/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/16/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-8-R/20110117_minne_1982_I_2011_0009-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-8-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-8-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/16"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-8-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-8-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/17",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/17/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/17/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-8-V/20110117_minne_1982_I_2011_0010-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-8-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-8-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/17"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-8-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-8-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/18",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/18/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/18/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-9-R/20110117_minne_1982_I_2011_0010-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-9-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-9-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/18"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-9-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-9-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/19",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/19/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/19/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-9-V/20110117_minne_1982_I_2011_0011-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-9-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-9-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/19"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-9-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-9-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/20",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/20/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/20/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-10-R/20110117_minne_1982_I_2011_0011-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-10-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-10-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/20"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-10-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-10-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/21",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/21/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/21/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-10-V/20110117_minne_1982_I_2011_0012-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-10-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-10-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/21"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-10-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-10-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/22",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/22/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/22/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-11-R/20110117_minne_1982_I_2011_0012-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-11-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-11-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/22"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-11-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-11-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/23",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/23/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/23/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-11-V/20110117_minne_1982_I_2011_0013-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-11-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-11-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/23"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-11-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-11-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/24",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/24/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/24/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-12-R/20110117_minne_1982_I_2011_0013-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-12-R"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-12-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/24"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-12-R"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-12-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/25",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/25/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/25/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_folio-12-V/20110117_minne_1982_I_2011_0014-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_folio-12-V"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_folio-12-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/25"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_folio-12-V"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_folio-12-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/26",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/26/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/26/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_page-1-R/20110117_minne_1982_I_2011_0017.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_page-1-R"
+                  ]
+                },
+                "width": 3000,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-1-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/26"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_page-1-R"
+        ]
+      },
+      "width": 3000,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_page-1-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/27",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/27/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/27/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_page-1-V/20110117_minne_1982_I_2011_0018.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_page-1-V"
+                  ]
+                },
+                "width": 3000,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-1-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/27"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_page-1-V"
+        ]
+      },
+      "width": 3000,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_page-1-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/28",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/28/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/28/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_page-2-R/20110117_minne_1982_I_2011_0019.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_page-2-R"
+                  ]
+                },
+                "width": 3000,
+                "height": 1215,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-2-R/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/28"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_page-2-R"
+        ]
+      },
+      "width": 3000,
+      "height": 1215,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_page-2-R/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/29",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/29/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/29/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_page-2-V/20110117_minne_1982_I_2011_0020.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_page-2-V"
+                  ]
+                },
+                "width": 3000,
+                "height": 1215,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_page-2-V/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/29"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_page-2-V"
+        ]
+      },
+      "width": 3000,
+      "height": 1215,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_page-2-V/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/30",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/30/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/30/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_Z-back-inner-cover/20110117_minne_1982_I_2011_0015-R.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_Z-back-inner-cover"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_Z-back-inner-cover/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/30"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_Z-back-inner-cover"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_Z-back-inner-cover/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/31",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/31/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://vdpkarin.github.io/1982_1/index.json/canvas/31/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://vdpkarin.github.io/1982_1/_ZZ-back-cover/20110117_minne_1982_I_2011_0016-L.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "en": [
+                    "_ZZ-back-cover"
+                  ]
+                },
+                "width": 1500,
+                "height": 1217,
+                "service": [
+                  {
+                    "@id": "https://vdpkarin.github.io/1982_1/_ZZ-back-cover/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://vdpkarin.github.io/1982_1/index.json/canvas/31"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "en": [
+          "_ZZ-back-cover"
+        ]
+      },
+      "width": 1500,
+      "height": 1217,
+      "thumbnail": [
+        {
+          "id": "https://vdpkarin.github.io/1982_1/_ZZ-back-cover/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "en": [
+      "Schetsboek met studies van figuren"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "License"
+        ]
+      },
+      "value": {
+        "en": [
+          "CC-PDM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "George Minne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "ca. 1898"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+  	"label": {"en": ["Attribution"]},
+  	"value": {"en": ["MSK Gent."]}
+  },
+  "summary": {
+  	"en": ["Dit schetsboekbevat een reeks tekeningen waarin de kunstenaar zoekt naar een opstelling van evenwichtig gegroepeerde figuren, hetgeen zal resulteren in \"De fontein der genkielden\" (ca. 1898) Sommige schetsen tonen een zeer dynamische opstelling van elkaar de hand reikende jongelingen, terwijl in andere studies het statisch eindresultaat benaderd wordt."]
+  }
+}
