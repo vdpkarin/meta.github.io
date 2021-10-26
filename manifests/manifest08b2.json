@@ -83,7 +83,7 @@
 					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json",
 					"@type": "sc:Canvas",
 					"label": "Reinaert brengt Bruin, waar honig vinden moest, maar heel iets anders krijgt",
-					"height": "4834",
+					"height": 4834,
 					"width": 6128,
 					"images": [
 						{
@@ -273,7 +273,7 @@
 					"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json",
 					"@type": "sc:Canvas",
 					"label": "Toen kreeg hij smaak in het bloed",
-					"height": "4051",
+					"height": 4051,
 					"width": 6463,
 					"images": [
 						{
