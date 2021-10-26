@@ -33,7 +33,7 @@
               "type": "Annotation",
               "body": {
                 "type": "Image",
-                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
+                "id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/max/0/default.jpg",
                 "width": 3223,
                 "height": 5000
               },
@@ -177,5 +177,5 @@
       }
     }
   ],
-  "rights": "https://creativecommons.org/publicdomain/zero/1.0/"
+  "rights": "http://creativecommons.org/publicdomain/zero/1.0/"
 }
