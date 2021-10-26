@@ -177,7 +177,7 @@
     }
   ],
   "id": "http://digirati.com/iiif/v3/b1d37f7d-47fe-aade-0f62-064f8fe16115/manifest",
-  "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
   "metadata": [
     {
       "label": {
