@@ -1,0 +1,251 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "http://2cb9ddab-9b3f-406a-a309-84eca29454e0",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Men Fighting / Vechtende Mannen"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Artist / Kunstenaar"
+        ]
+      },
+      "value": {
+        "nl": [
+          "George Minne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Date / Datum"
+        ]
+      },
+      "value": {
+        "nl": [
+          "\u00b1 1886"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Inventory no. / Inventarisnr."
+        ]
+      },
+      "value": {
+        "nl": [
+          "1982-N"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Photographer / Fotograaf"
+        ]
+      },
+      "value": {
+        "nl": [
+          "Dominique Provost"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Description"
+        ]
+      },
+      "value": {}
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Museum of Fine Arts Ghent / Museum voor Schone Kunsten Gent"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "items": [
+    {
+      "id": "http://927d2268-9d19-44ec-98b2-3b66aad309e2",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vechtende mannen"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Citation / Bronvermelding"
+            ]
+          },
+          "value": {
+            "nl": [
+              "The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be/nl/kunst/vechtende-mannen\">meemoo</a>. If this image is used for a printed publication or a commercial product, Museum of Fine Arts Ghent would appreciate having 2 copies sent to Fernand Scribedreef 1, B-9000 Gent.\n---\nDe originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/vechtende-mannen\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+            ]
+          }
+        }
+      ],
+      "height": 5000,
+      "width": 3750,
+      "items": [
+        {
+          "id": "https://example.org/uuid/dbbcad5c-770a-4cd6-93e1-636ca41dab50",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://9e8a09d1-db8b-4de2-ad4b-c6cf44e9f82d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7421,
+                "width": 5566,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "@id": "https://images-tst.meemoo.be/iiif/dr2p57529r.jp2",
+                    "@type": "Service",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://927d2268-9d19-44ec-98b2-3b66aad309e2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://ecb33e10-9e6d-4dc2-9bd9-68a1a8c796ce",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vechtende mannen 1"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Citation / Bronvermelding"
+            ]
+          },
+          "value": {
+            "nl": [
+              "The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be/nl/kunst/vechtende-mannen-1\">meemoo</a>. If this image is used for a printed publication or a commercial product, Museum of Fine Arts Ghent would appreciate having 2 copies sent to Fernand Scribedreef 1, B-9000 Gent.\n---\nDe originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/vechtende-mannen-1\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+            ]
+          }
+        }
+      ],
+      "height": 5000,
+      "width": 3750,
+      "items": [
+        {
+          "id": "https://example.org/uuid/f078007d-f7df-4cd4-ab24-c989fe71a841",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://e6cbc610-6133-4e8b-bc95-68db32981048",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7421,
+                "width": 5566,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "@id": "https://images-tst.meemoo.be/iiif/p843r2fm4m.jp2",
+                    "@type": "Service",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://ecb33e10-9e6d-4dc2-9bd9-68a1a8c796ce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://f9ecf182-a030-4a20-9749-495514de1e8e",
+      "type": "Canvas",
+      "label": {
+        "nl": [
+          "Vechtende mannen 2"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "nl": [
+              "Citation / Bronvermelding"
+            ]
+          },
+          "value": {
+            "nl": [
+              "The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be/nl/kunst/vechtende-mannen-2\">meemoo</a>. If this image is used for a printed publication or a commercial product, Museum of Fine Arts Ghent would appreciate having 2 copies sent to Fernand Scribedreef 1, B-9000 Gent.\n---\nDe originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/vechtende-mannen-2\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+            ]
+          }
+        }
+      ],
+      "height": 5000,
+      "width": 3750,
+      "items": [
+        {
+          "id": "https://example.org/uuid/8a05ac64-9072-4326-93f5-e00f763040c0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "id": "http://9f8d4b7e-156d-48a2-952d-e8a22b8ec776",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7421,
+                "width": 5566,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "@id": "https://images-tst.meemoo.be/iiif/wp9t16kg44.jp2",
+                    "@type": "Service",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "http://f9ecf182-a030-4a20-9749-495514de1e8e"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
