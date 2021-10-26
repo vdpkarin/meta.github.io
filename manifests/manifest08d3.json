@@ -114,13 +114,6 @@
               "id": "http://03db5737-bc8a-48f6-8f50-b503a27f1cec",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/1.json#",
               "body": {
-                "format": "Image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/rr1pg38d4n.jp2/full/max/0/default.jpg",
-                  "type": "Service"
-                },
                 "height": 4834,
                 "width": 6319,
                 "type": "Image",
