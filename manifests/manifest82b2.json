@@ -39,8 +39,8 @@
 					"@id": "http://927d2268-9d19-44ec-98b2-3b66aad309e2",
 					"@type": "sc:Canvas",
 					"label": "Vechtende mannen",
-					"height": "5000",
-					"width": "3750",
+					"height": 5000,
+					"width": 3750,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -73,8 +73,8 @@
 					"@id": "http://ecb33e10-9e6d-4dc2-9bd9-68a1a8c796ce",
 					"@type": "sc:Canvas",
 					"label": "Vechtende mannen 1",
-					"height": "5000",
-					"width": "3750",
+					"height": 5000,
+					"width": 3750,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -107,8 +107,8 @@
 					"@id": "http://f9ecf182-a030-4a20-9749-495514de1e8e",
 					"@type": "sc:Canvas",
 					"label": "Vechtende mannen 2",
-					"height": "5000",
-					"width": "3750",
+					"height": 5000,
+					"width": 3750,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
