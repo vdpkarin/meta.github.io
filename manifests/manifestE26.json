@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://d1426886-68dc-4059-8929-791b8cae67ff",
 	"@type": "sc:Manifest",
-	"label": "De 7 hoofdzonden",
+	"label": "De 7 hoofdzonden",	
 	"metadata": [
 		{
 			"label": "Kunstenaar",
