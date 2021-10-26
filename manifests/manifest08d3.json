@@ -181,13 +181,6 @@
               "id": "http://e9e22ae2-0bf4-4ea9-823f-0d6fd4323851",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/2.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/n00zp5mn3h.jp2",
-                  "type": "Service"
-                },
                 "height": 4896,
                 "width": 6128,
                 "type": "Image",
@@ -255,13 +248,6 @@
               "id": "http://f8ac8f17-6393-49eb-a888-ff595da84a55",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/3.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/3x83j51k73.jp2",
-                  "type": "Service"
-                },
                 "height": 4972,
                 "width": 6404,
                 "type": "Image",
@@ -329,13 +315,6 @@
               "id": "http://4ecaa5f4-4907-43a3-aa49-d8497d95dddd",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/4.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/m03xs79438.jp2",
-                  "type": "Service"
-                },
                 "height": 5004,
                 "width": 6388,
                 "type": "Image",
@@ -403,13 +382,6 @@
               "id": "http://ecc1e156-0ca0-4ebf-ae45-ba82d4505a02",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/5.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/vh5cc2kn9c.jp2",
-                  "type": "Service"
-                },
                 "height": 5088,
                 "width": 5680,
                 "type": "Image",
@@ -477,13 +449,6 @@
               "id": "http://6f52e2bf-c6ab-40e6-8384-cd59fd58f576",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/6.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/qr4nk4xw6k.jp2",
-                  "type": "Service"
-                },
                 "height": 4930,
                 "width": 5975,
                 "type": "Image",
@@ -551,13 +516,6 @@
               "id": "http://8f03e502-2552-4d9a-8ee6-f15472594cc9",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/7.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/bg2h720m05.jp2",
-                  "type": "Service"
-                },
                 "height": 4753,
                 "width": 6463,
                 "type": "Image",
@@ -625,13 +583,6 @@
               "id": "http://0b72aa21-867d-4968-8c5d-ac638728dae4",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/8.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/g73709nc11.jp2",
-                  "type": "Service"
-                },
                 "height": 7369,
                 "width": 3764,
                 "type": "Image",
@@ -699,13 +650,6 @@
               "id": "http://7b8763ac-213b-4532-aaac-b3bf5ee009b9",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/9.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/057cr7ct31.jp2",
-                  "type": "Service"
-                },
                 "height": 7476,
                 "width": 5212,
                 "type": "Image",
@@ -773,13 +717,6 @@
               "id": "http://2fb8fa1a-d0e1-4db2-8d18-489eb3928c17",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/10.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/j09w10n36h.jp2",
-                  "type": "Service"
-                },
                 "height": 4000,
                 "width": 6232,
                 "type": "Image",
@@ -847,13 +784,6 @@
               "id": "http://250fd1df-ccb9-4ca2-a2bc-3c4ee6dd6697",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/11.json#xywh=0,0,6417,4209",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/ns0ks88v8h.jp2",
-                  "type": "Service"
-                },
                 "height": 4209,
                 "width": 6417,
                 "type": "Image",
@@ -921,13 +851,6 @@
               "id": "http://83498b21-059b-4768-b024-d44119eb661f",
               "target": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/mskgent.be:2008-D-1/canvas/12.json#",
               "body": {
-                "format": "image/jpeg",
-                "service": {
-                  "@context": "http://iiif.io/api/image/3/context.json",
-                  "profile": "level2",
-                  "id": "https://images-tst.meemoo.be/iiif/sj19k5xm7v.jp2",
-                  "type": "Service"
-                },
                 "height": 4987,
                 "width": 6446,
                 "type": "Image",
