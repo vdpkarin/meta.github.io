@@ -1,0 +1,254 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Untitled Manifest"
+    ],
+    "nl": [
+      "De 7 hoofdzonden"
+    ]
+  },
+  "items": [
+    {
+      "label": {
+        "en": [
+          "Untitled Canvas"
+        ],
+        "nl": [
+          "De hoofdzonden beheerst door de dood"
+        ]
+      },
+      "height": 1000,
+      "width": 1000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068.tif/full/full/0/default.jpg",
+                "width": 2362,
+                "height": 1747
+              },
+              "target": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/a26bb991-c6a4-7417-6e37-18791e1c83a1#xywh=0,0,1000,739.6274343776461",
+              "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/annotation/9c5b4264-99c8-5d91-f760-cd811ebf8682",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/list/296720c2-8153-bad3-b89b-5e359b382a07"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/a26bb991-c6a4-7417-6e37-18791e1c83a1",
+      "metadata": [
+        {
+          "value": {
+            "nl": [
+              "1904"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Datum"
+            ]
+          }
+        },
+        {
+          "value": {
+            "nl": [
+              "1998-B-126"
+            ]
+          },
+          "label": {
+            "nl": [
+              "Inventarisnr."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": [
+          "Untitled Canvas"
+        ],
+        "nl": [
+          "De ontucht"
+        ]
+      },
+      "height": 3314,
+      "width": 5000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/944.tif/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3314
+              },
+              "target": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/1be509b9-ca33-c3e5-d73e-7de4a18d4787#xywh=0,0,5000,3314",
+              "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/annotation/18e92895-d842-11da-d8cb-ad06933d3e2a",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/list/c5b40c53-7531-26e3-95a8-df97d926e110"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/1be509b9-ca33-c3e5-d73e-7de4a18d4787"
+    },
+    {
+      "label": {
+        "en": [
+          "Untitled Canvas"
+        ],
+        "nl": [
+          "De gramschap"
+        ]
+      },
+      "height": 1000,
+      "width": 1000,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/908.tif/full/full/0/default.jpg",
+                "width": 5000,
+                "height": 3800
+              },
+              "target": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/00f8fc0b-db53-dadd-b658-ff9b98e9a75d#xywh=0,0,1000,760",
+              "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/annotation/d698eda3-7f29-c162-d176-d0f797ee179f",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/list/417a2c7f-97ea-f4ba-2165-6697ce5967b5"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/00f8fc0b-db53-dadd-b658-ff9b98e9a75d"
+    },
+    {
+      "label": {
+        "en": [
+          "Untitled Canvas"
+        ],
+        "nl": [
+          "De gierigheid"
+        ]
+      },
+      "height": 200,
+      "width": 300,
+      "type": "Canvas",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": {
+                "type": "Image",
+                "id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/926.tif/full/full/0/default.jpg"
+              },
+              "target": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/04fca867-f4e1-b36d-439f-159ab0fb9ee7#xywh=0,0,300,200",
+              "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/annotation/6a5f5ea8-6f90-3a36-2f23-b4e7144f89df",
+              "motivation": "painting"
+            }
+          ],
+          "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/list/591de403-ffca-ac1e-7626-5f034f85d199"
+        }
+      ],
+      "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/canvas/04fca867-f4e1-b36d-439f-159ab0fb9ee7"
+    }
+  ],
+  "id": "http://digirati.com/iiif/v3/9c95fd30-f94e-af13-1935-4d4cd120c073/manifest",
+  "requiredStatement": {
+    "value": {
+      "nl": [
+        "Museum voor Schone Kunsten Gent"
+      ]
+    },
+    "label": {
+      "nl": [
+        "Collectie"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "value": {
+        "nl": [
+          "Ensor publiceerde de reeks “De zeven hoofdzonden” in 1904 in de vorm van een album, met een voorwoord van zijn vriend Eugène Demolder. De reeks prenten werd niet in één keer gemaakt. Van 1888 dateert “De ontucht”. In 1902 en 1904 werden de overige prenten toegevoegd. Voor alle etsen bestaan voorstudies in gekleurd krijt. Deze tekeningen zijn spiegelbeeldig ten opzichte van de prenten behalve “De ontucht” die waarschijnlijk naar de ets van 1888 werd gemaakt. Ensor heeft “De zeven hoofdzonden” herhaaldelijk bijgekleurd. Aan Eugène Demolder vertelde hij dat het album hem veel voldoening schonk, maar dat hij vooral de gehoogde prenten verkoos."
+        ]
+      },
+      "label": {
+        "nl": [
+          "Beschrijving"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "James Ensor"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Kunstenaar"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "± 1888 - 1904 ",
+          "(19de-20ste eeuw)"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Datum"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "Dominique Provost"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Fotograaf"
+        ]
+      }
+    },
+    {
+      "value": {
+        "nl": [
+          "<p>De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/beelden-bestellen-voor-commercieel-gebruik\" target=\"_blank\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent.</p>"
+        ]
+      },
+      "label": {
+        "nl": [
+          "Bronvermelding"
+        ]
+      }
+    }
+  ],
+  "rights": "http://creativecommons.org/publicdomain/zero/1.0/"
+}
