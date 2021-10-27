@@ -1,0 +1,663 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://2a5bdd91-7b57-412c-b530-9161a3ae212d",
+	"@type": "sc:Manifest",
+	"label": "De 7 hoofdzonden",
+	"metadata": [
+		{
+			"label": "Kunstenaar",
+			"value": "James Ensor"
+		},
+		{
+			"label": "Datum",
+			"value": "± 1888-1904 (19de-20ste eeuw)"
+		},
+		{
+			"label": "Fotograaf",
+			"value": "Dominique Provost"
+		},
+		{
+			"label": "Bronvermelding",
+			"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/beelden-bestellen-voor-commercieel-gebruik\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+		}
+	],
+	"description": [
+		{
+			"@value": "Ensor publiceerde de reeks “De zeven hoofdzonden” in 1904 in de vorm van een album, met een voorwoord van zijn vriend Eugène Demolder. De reeks prenten werd niet in één keer gemaakt. Van 1888 dateert “De ontucht”. In 1902 en 1904 werden de overige prenten toegevoegd. Voor alle etsen bestaan voorstudies in gekleurd krijt. Deze tekeningen zijn spiegelbeeldig ten opzichte van de prenten behalve “De ontucht” die waarschijnlijk naar de ets van 1888 werd gemaakt. Ensor heeft “De zeven hoofdzonden” herhaaldelijk bijgekleurd. Aan Eugène Demolder vertelde hij dat het album hem veel voldoening schonk, maar dat hij vooral de gehoogde prenten verkoos.",
+			"@language": ""
+		}
+	],
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
+	"attribution": "Museum voor Schone Kunsten Gent",
+	"sequences": [
+		{
+			"@id": "http://e86ea78a-f4d5-4232-9a31-8498b02c4332",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a4e8984c-f2e4-4aed-9c0b-0f38c1b545c0",
+					"@type": "sc:Canvas",
+					"label": "De hoofdzonden beheerst door de dood",
+					"height": 1747,
+					"width": 2362,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://90849100-7b02-4025-af26-c800d305b210",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4126414,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1747,
+								"width": 2362
+							},
+							"on": "http://a4e8984c-f2e4-4aed-9c0b-0f38c1b545c0"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1904"
+						},
+						{
+							"label": "Inventarisnr.",
+							"value": "1998-B-126"
+						}
+					]
+				},
+				{
+					"@id": "http://5f08e866-5fb2-4fda-a776-451748120d27",
+					"@type": "sc:Canvas",
+					"label": "De ontucht",
+					"height": 3314,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4414f776-3234-43f9-838f-c20add34b875",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/944.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/944.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 16570000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3314,
+								"width": 5000
+							},
+							"on": "http://5f08e866-5fb2-4fda-a776-451748120d27"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1888"
+						},
+						{
+							"label": "Inventarisnr.",
+							"value": "1998-B-59"
+						}
+					]
+				},
+				{
+					"@id": "http://c7bf4731-832f-4860-b1bc-fff7125b239d",
+					"@type": "sc:Canvas",
+					"label": "De gramschap",
+					"height": 3800,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://71f367a1-66bb-4419-8db8-34521c521748",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/908.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/908.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 19000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3800,
+								"width": 5000
+							},
+							"on": "http://c7bf4731-832f-4860-b1bc-fff7125b239d"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1904"
+						},
+						{
+							"label": "Inventarisnr.",
+							"value": "1998-B-121"
+						}
+					]
+				},
+				{
+					"@id": "http://971cdd0d-b401-47f0-96ab-8d36bd265504",
+					"@type": "sc:Canvas",
+					"label": "De gierigheid",
+					"height": 3771,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ae4d1206-d56d-4cd3-9054-951489c386df",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/926.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/926.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 18855000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3771,
+								"width": 5000
+							},
+							"on": "http://971cdd0d-b401-47f0-96ab-8d36bd265504"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1904"
+						},
+						{
+							"label": "Inverntarisnr.",
+							"value": "1998-B-123"
+						}
+					]
+				},
+				{
+					"@id": "http://1c29d957-e5ea-4c47-8b03-21bde3206000",
+					"@type": "sc:Canvas",
+					"label": "De hoogmoed",
+					"height": 3711,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7621ca74-c469-455b-9723-8e8e750e57af",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/925.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/925.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 18555000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3711,
+								"width": 5000
+							},
+							"on": "http://1c29d957-e5ea-4c47-8b03-21bde3206000"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1904"
+						},
+						{
+							"label": "Inventarisnr.",
+							"value": "1998-B-122"
+						}
+					]
+				},
+				{
+					"@id": "http://e63a1cf7-8f8f-4244-9bf3-be77b6fcfda4",
+					"@type": "sc:Canvas",
+					"label": "De nijd",
+					"height": 3983,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cc841915-d73c-4356-a7c0-a15f9cf06ed8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/910.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/910.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 19915000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3983,
+								"width": 5000
+							},
+							"on": "http://e63a1cf7-8f8f-4244-9bf3-be77b6fcfda4"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1904"
+						},
+						{
+							"label": "Inventarisnr.",
+							"value": "1998-B-125"
+						}
+					]
+				},
+				{
+					"@id": "http://421ac5b8-bc5f-47be-8dc8-b5ba8be1e0ef",
+					"@type": "sc:Canvas",
+					"label": "De luiheid",
+					"height": 3687,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://970b2366-dd0e-4faa-ae5a-c5abb010e50e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/923.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/923.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 18435000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3687,
+								"width": 5000
+							},
+							"on": "http://421ac5b8-bc5f-47be-8dc8-b5ba8be1e0ef"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1902"
+						},
+						{
+							"label": "Inventarisnr.",
+							"value": "1998-B-119"
+						}
+					]
+				},
+				{
+					"@id": "http://a4de8a03-a0aa-48d9-b1a0-1e9916c4e087",
+					"@type": "sc:Canvas",
+					"label": "De gulzigheid",
+					"height": 3889,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ba5317b6-e835-40be-9a3e-715f09ea25bd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 19445000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3889,
+								"width": 5000
+							},
+							"on": "http://a4de8a03-a0aa-48d9-b1a0-1e9916c4e087"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Datum",
+							"value": "1904"
+						},
+						{
+							"label": "Inventarisnr.",
+							"value": "1998-B-124"
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": []
+}
