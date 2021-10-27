@@ -56,56 +56,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/1068.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 4126414,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 1747,
 								"width": 2362
 							},
 							"on": "http://a4e8984c-f2e4-4aed-9c0b-0f38c1b545c0"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
@@ -133,56 +89,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/944.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/944.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 16570000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 3314,
 								"width": 5000
 							},
 							"on": "http://5f08e866-5fb2-4fda-a776-451748120d27"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
@@ -210,56 +122,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/908.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/908.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 19000000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 3800,
 								"width": 5000
 							},
 							"on": "http://c7bf4731-832f-4860-b1bc-fff7125b239d"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
@@ -287,56 +155,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/926.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/926.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 18855000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 3771,
 								"width": 5000
 							},
 							"on": "http://971cdd0d-b401-47f0-96ab-8d36bd265504"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
@@ -364,56 +188,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/925.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/925.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 18555000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 3711,
 								"width": 5000
 							},
 							"on": "http://1c29d957-e5ea-4c47-8b03-21bde3206000"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
@@ -441,56 +221,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/910.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/910.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 19915000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 3983,
 								"width": 5000
 							},
 							"on": "http://e63a1cf7-8f8f-4244-9bf3-be77b6fcfda4"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
@@ -518,56 +254,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/923.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/923.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 18435000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 3687,
 								"width": 5000
 							},
 							"on": "http://421ac5b8-bc5f-47be-8dc8-b5ba8be1e0ef"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
@@ -595,56 +287,12 @@
 								"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://arthubensor.vlaamsekunstcollectie.be/iiif/2/909.tif",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 19445000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 3889,
 								"width": 5000
 							},
 							"on": "http://a4de8a03-a0aa-48d9-b1a0-1e9916c4e087"
 						}
 					],
-					"related": "",
 					"metadata": [
 						{
 							"label": "Datum",
