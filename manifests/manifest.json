@@ -114,49 +114,6 @@
 								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000066",
-									"profile": [
-										"http://iiif.io/api/image/2/level2.json",
-										{
-											"formats": [
-												"jpg",
-												"tif",
-												"gif",
-												"png"
-											],
-											"maxArea": 16115000,
-											"qualities": [
-												"bitonal",
-												"default",
-												"gray",
-												"color"
-											],
-											"supports": [
-												"regionByPx",
-												"sizeByW",
-												"sizeByWhListed",
-												"cors",
-												"regionSquare",
-												"sizeByDistortedWh",
-												"canonicalLinkHeader",
-												"sizeByConfinedWh",
-												"sizeByPct",
-												"jsonldMediaType",
-												"regionByPct",
-												"rotationArbitrary",
-												"sizeByH",
-												"baseUriRedirect",
-												"rotationBy90s",
-												"profileLinkHeader",
-												"sizeByForcedWh",
-												"sizeByWh",
-												"mirroring"
-											]
-										}
-									]
-								},
 								"height": 5000,
 								"width": 3223
 							},
