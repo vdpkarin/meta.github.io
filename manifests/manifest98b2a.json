@@ -44,8 +44,8 @@
 					"@id": "http://ab34691b-de6f-4ffe-961f-1fc3055a0905",
 					"@type": "sc:Canvas",
 					"label": "De hoofdzonden beheerst door de dood",
-					"height": "1747",
-					"width": "2362",
+					"height": 1747,
+					"width": 2362,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -121,8 +121,8 @@
 					"@id": "http://50c3b0fb-3a39-40a7-8f7a-ec3355b648dd",
 					"@type": "sc:Canvas",
 					"label": "De ontucht",
-					"height": "3314",
-					"width": "5000",
+					"height": 3314,
+					"width": 5000,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -198,8 +198,8 @@
 					"@id": "http://aa206413-2361-4aab-be34-5c7a8216d56a",
 					"@type": "sc:Canvas",
 					"label": "De gramschap",
-					"height": "3800",
-					"width": "5000",
+					"height": 3800,
+					"width": 5000,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -275,8 +275,8 @@
 					"@id": "http://4c961b03-67ef-4686-9e52-3fde1b816703",
 					"@type": "sc:Canvas",
 					"label": "De gierigheid",
-					"height": "3771",
-					"width": "5000",
+					"height": 3771,
+					"width": 5000,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -352,8 +352,8 @@
 					"@id": "http://8afe6ba8-7c13-4477-8546-e03414354c65",
 					"@type": "sc:Canvas",
 					"label": "De hoogmoed",
-					"height": "3711",
-					"width": "5000",
+					"height": 3711,
+					"width": 5000,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -429,8 +429,8 @@
 					"@id": "http://bf2e416e-f530-4747-8824-4399459023f6",
 					"@type": "sc:Canvas",
 					"label": "De nijd",
-					"height": "3983",
-					"width": "5000",
+					"height": 3983,
+					"width": 5000,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -506,8 +506,8 @@
 					"@id": "http://d1fcc76f-dfce-4cce-a713-83203c7884a9",
 					"@type": "sc:Canvas",
 					"label": "De luiheid",
-					"height": "3687",
-					"width": "5000",
+					"height": 3687,
+					"width": 5000,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -583,8 +583,8 @@
 					"@id": "http://0454d63e-d113-4239-8ad3-9d05ce30f41b",
 					"@type": "sc:Canvas",
 					"label": "De gulzigheid",
-					"height": "3889",
-					"width": "5000",
+					"height": 3889,
+					"width": 5000,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
