@@ -1,0 +1,964 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://2c36158a-e25c-4aa4-936e-d0cae4efa2dd",
+	"@type": "sc:Manifest",
+	"label": "Reinaert de Vos voor de vierschaar van Koning Nobel den leeuw. ",
+	"metadata": [
+		{
+			"label": "Kunstenaar",
+			"value": "Gustave Van de Woestyne"
+		},
+		{
+			"label": "Datum",
+			"value": "1907-1908 (20ste eeuw)"
+		},
+		{
+			"label": "Fotograaf",
+			"value": "Dominique Provost"
+		}
+	],
+	"description": [
+		{
+			"@value": "Een nuttig en vermakelyk verhaal voor groote en kleine kinderen. Naverteld en uitgegeven door Stijn Streuvels. Opgeluisterd met tekeningen door Gustave Van de Woestyne.",
+			"@language": ""
+		}
+	],
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/",
+	"attribution": "Museum voor Schone Kunsten Gent",
+	"sequences": [
+		{
+			"@id": "http://ff85ff17-c0e3-4510-9da3-cfd0128c9771",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://714d077c-9193-44e5-8f1c-a318d01cdcdf",
+					"@type": "sc:Canvas",
+					"label": "Bruin de Beer gaat Reinaert dagvaarden en wordt heel vriendelijk onthaald",
+					"height": 4226,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://27f09ca6-5cfc-4e5f-9969-6d22323d838c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000008/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000008",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 21130000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4226,
+								"width": 5000
+							},
+							"on": "http://714d077c-9193-44e5-8f1c-a318d01cdcdf"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-1"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://a3a2a140-e604-4c7a-bb26-446a9e63e818",
+					"@type": "sc:Canvas",
+					"label": "Reinaert brengt Bruin, waar honig vinden moest, maar heel iets anders krijgt",
+					"height": 4395,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e90f098b-bb91-48d5-867f-17e8bf90bbd1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000009/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000009",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 21975000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4395,
+								"width": 5000
+							},
+							"on": "http://a3a2a140-e604-4c7a-bb26-446a9e63e818"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-2"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-0\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://3a45b6e6-52aa-4315-a914-2c4cced5e17a",
+					"@type": "sc:Canvas",
+					"label": "Bruin springt in de rivier",
+					"height": 4254,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1d1f4dbf-7a97-4936-8a7b-c7623ed82c84",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000010/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000010",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 21270000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4254,
+								"width": 5000
+							},
+							"on": "http://3a45b6e6-52aa-4315-a914-2c4cced5e17a"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-3"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-2\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://48cbb8d6-93aa-4c61-8bdd-713454f72335",
+					"@type": "sc:Canvas",
+					"label": "Bruin de Beer beklaagt zich bij den koning en Tybaert de Kater wordt nu met de boodschap belast",
+					"height": 4301,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cb6820af-a58e-4f83-b6f5-947a1017381c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000011/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000011",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 21505000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4301,
+								"width": 5000
+							},
+							"on": "http://48cbb8d6-93aa-4c61-8bdd-713454f72335"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-4"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-5\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://9644aec7-28ac-4b28-90a9-d66e63f6a138",
+					"@type": "sc:Canvas",
+					"label": "Reinaert wordt nog beschuldigd door Canteclaer",
+					"height": 4945,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://92b1937c-8502-441c-a5db-a49ff530b449",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000012/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000012",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 24725000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4945,
+								"width": 5000
+							},
+							"on": "http://9644aec7-28ac-4b28-90a9-d66e63f6a138"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-5"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-4\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://95ee5244-2132-498b-82eb-94628d3ba595",
+					"@type": "sc:Canvas",
+					"label": "Genadigde Heer, De macht is in Uwe hand, zegde Reinaert",
+					"height": 4553,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1fdaa8a6-a418-4f9e-bcba-3cd6337a1d49",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000013/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000013",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 22765000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4553,
+								"width": 5000
+							},
+							"on": "http://95ee5244-2132-498b-82eb-94628d3ba595"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-6"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-3\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://bea70c86-7332-4413-9228-539b7dc933f9",
+					"@type": "sc:Canvas",
+					"label": "Toen kreeg hij smaak in het bloed",
+					"height": 4051,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6abed420-21ec-4073-a325-75c4f060c817",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000014/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000014",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 20255000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4051,
+								"width": 5000
+							},
+							"on": "http://bea70c86-7332-4413-9228-539b7dc933f9"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-7"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-10\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://9d8e0c58-450a-46da-89bb-1585a0e78aeb",
+					"@type": "sc:Canvas",
+					"label": "Reinaerts vader verhing zich aan eenen boom",
+					"height": 5000,
+					"width": 2359,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://57fdb7ac-2bdd-4830-ab10-f2d29a20063b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000015/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000015",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 11795000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5000,
+								"width": 2359
+							},
+							"on": "http://9d8e0c58-450a-46da-89bb-1585a0e78aeb"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-8"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-9\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://9423fe7d-1cc4-43a7-a68a-dadf4f08e3f2",
+					"@type": "sc:Canvas",
+					"label": "Op den stond deed de Koning Bruin en Isegrim vangen en binden",
+					"height": 5000,
+					"width": 3241,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0aa3ae5d-0ab7-4905-8a11-c7b4ed0d76f1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000016/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000016",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 16205000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 5000,
+								"width": 3241
+							},
+							"on": "http://9423fe7d-1cc4-43a7-a68a-dadf4f08e3f2"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-9"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-1\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://6f8150b2-ebb9-456d-89ae-440296569907",
+					"@type": "sc:Canvas",
+					"label": "Reinaert keerde zich toen tot Cuwaert en Belijn",
+					"height": 3607,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1d2e4ec7-f19b-49e0-a7e9-5d4a567052a2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000017/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000017",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 18035000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3607,
+								"width": 5000
+							},
+							"on": "http://6f8150b2-ebb9-456d-89ae-440296569907"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-10"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-7\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://5eb9ed3c-5b10-4c61-ac64-858155c44fb6",
+					"@type": "sc:Canvas",
+					"label": "Eindelijk begon Belijn te roepen",
+					"height": 3645,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://45cdffc8-e98c-416d-aa5a-e0f6c8e40d10",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000018/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000018",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 18225000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3645,
+								"width": 5000
+							},
+							"on": "http://5eb9ed3c-5b10-4c61-ac64-858155c44fb6"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-11"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-8\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				},
+				{
+					"@id": "http://bd1dacf4-f1e5-41fb-b36b-07b1e23ca9bb",
+					"@type": "sc:Canvas",
+					"label": "De Koning stiet een vervaarlijken kreet van wanhoop en woede",
+					"height": 4243,
+					"width": 5000,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://16de8289-4467-4ca9-b860-d5c87430c1fa",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000019/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://imagehub.iiif.vlaamsekunstcollectie.be/iiif/2/100000019",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 21215000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4243,
+								"width": 5000
+							},
+							"on": "http://bd1dacf4-f1e5-41fb-b36b-07b1e23ca9bb"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Inventarisnr.",
+							"value": "2008-D-12"
+						},
+						{
+							"label": "Bronvermelding",
+							"value": "De originele TIFF-bestanden van dit werk, in hoogste resolutie en met kleurencode, kunnen worden besteld bij <a href=\"https://artinflanders.be/nl/kunst/reinaert-de-vos-voor-de-vierschaar-van-koning-nobel-den-leeuw-een-nuttig-en-vermakelyk-6\">meemoo</a>. Wanneer dit beeld gebruikt wordt voor een gedrukte publicatie of een commercieel product, dan stelt Museum voor Schone Kunsten Gent het op prijs dat 2 exemplaren worden toegestuurd naar Fernand Scribedreef 1, B-9000 Gent."
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": []
+}
