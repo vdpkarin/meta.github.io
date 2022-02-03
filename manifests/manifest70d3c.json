@@ -49,8 +49,9 @@
     }
   ],
   "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/manifest",
+"rights": "http://creativecommons.org/publicdomain/zero/1.0/",
   "requiredStatement": [
-        {
+      {
       "value": {
         "en": [
           "Museum of Fine Arts Ghent"
@@ -85,7 +86,7 @@
           "Bronvermelding"
         ]
       }
-    },
+    }
 ],
   "metadata": [
     {
@@ -177,7 +178,6 @@
           "Fotograaf"
         ]
       }
-    },
-  "rights": "http://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
 }
-]
