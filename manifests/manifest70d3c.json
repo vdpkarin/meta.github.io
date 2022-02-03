@@ -50,8 +50,7 @@
   ],
   "id": "http://digirati.com/iiif/v3/87f60862-6b33-6e36-eacd-d64748f2efea/manifest",
 "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
-  "requiredStatement": [
-      {
+  "requiredStatement": {
       "value": {
         "en": [
           "Museum of Fine Arts Ghent - <p>The original TIFF files of this work, in highest resolution and color-coded, can be ordered from <a href=\"https://artinflanders.be/nl/kunst/zelfportret-studie\" target=\"_blank\">meemoo</a>. If this image is used for a printed publication or a commercial product, Museum of Fine Arts Ghent would appreciate having 2 copies sent to Fernand Scribedreef 1, B-9000 Gent.</p>"
@@ -68,8 +67,7 @@
           "Collectie - Bronvermelding"
         ]
       }
-    }
-],
+    },
   "metadata": [
     {
       "value": {
